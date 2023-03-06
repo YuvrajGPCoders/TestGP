@@ -1,0 +1,11 @@
+.formregister{
+    display: inline-grid;
+    padding: 20px;
+    border: 2px solid gray;
+    border-radius: 12px;
+    margin-top: 10%;
+   
+}
+input{
+  margin: 10px;
+}
